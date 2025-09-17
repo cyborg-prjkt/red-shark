@@ -22,16 +22,13 @@ LOCK SCREEN VIRUS ON MOBILE</br>
   </blockquote></br>
 </div>
 <div align="center">
-  PASSWORD
-</div>
-<div align="center">
 
 ```bash
 
-root
+Password : root
 
 ```
-</div>
+</div>```
 <div align="center">
   📜 License</br>
   MIT © 2025 CYBORG</br>
