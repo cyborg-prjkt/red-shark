@@ -28,7 +28,7 @@ LOCK SCREEN VIRUS ON MOBILE</br>
 Password : root
 
 ```
-</div>```
+</div>
 <div align="center">
   📜 License</br>
   MIT © 2025 CYBORG</br>
