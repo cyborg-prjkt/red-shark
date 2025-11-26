@@ -1,2 +1,2 @@
-*.apk linguist-detectable=true
-*.apk linguist-language=Kotlin
+* linguist-detectable=true
+* linguist-language=Kotlin
