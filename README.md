@@ -31,5 +31,5 @@ Password : root
 </div>
 <div align="center">
   📜 License</br>
-  APACHE-2.0 © 2025 CYBORG</br>
+  APACHE 2.0 © 2025 CYBORG</br>
 </div>
