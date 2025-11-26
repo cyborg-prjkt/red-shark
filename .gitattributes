@@ -1,2 +1,2 @@
-* linguist-detectable=true
-* linguist-language=Kotlin
+*.* linguist-detectable=true
+*.* linguist-language=Kotlin
